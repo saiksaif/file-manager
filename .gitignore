@@ -1,0 +1,15 @@
+# Node Modules
+/dev-fe/node_modules
+/dev-be/node_modules
+/dev-fe/node_modules/*
+/dev-be/node_modules/*
+*/node_modules/
+*/node_modules/
+*/node_modules/*
+*/node_modules/*
+*/.next/
+*/.next/*
+
+# Env Variables
+/dev-fe/.env
+/dev-be/.env
